@@ -1,7 +1,7 @@
 package lesson1;
 
 public class Movie {
-    private String title;
+    /*private String title;
     private String director;
     private int releaseYear;
     private double rating;
@@ -20,5 +20,6 @@ public class Movie {
     public boolean isHighlyRated() {
         // Implement logic to check if the movie's rating is high
         return false;
+        */
     }
-}
+

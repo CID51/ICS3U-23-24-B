@@ -2,7 +2,7 @@ package lesson1;
 
 
 public class BankAccount {
-    private  String accountHolder;
+    /*private  String accountHolder;
     private double balance;
     private int accountNumber;
 
@@ -24,6 +24,8 @@ public class BankAccount {
     // Method stub to print account details
     public void printAccountDetails() {
         // Print account holder name, account number, and balance
+        */
     }
-}
+
+
 

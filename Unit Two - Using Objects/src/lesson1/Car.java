@@ -1,7 +1,7 @@
 package lesson1;
 
 public class Car {
-    private String make;
+    /*private String make;
     private String model;
     private int year;
     private double mileage;
@@ -19,5 +19,5 @@ public class Car {
     // Method stub to print car information
     public void printCarInfo() {
         // Print car make, model, year, and mileage
+        */
     }
-}

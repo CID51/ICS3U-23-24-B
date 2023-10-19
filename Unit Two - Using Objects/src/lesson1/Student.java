@@ -1,7 +1,7 @@
 package lesson1;
 
 public class Student {
-    private String name; // atributes are defined in the class
+    /*private String name; // atributes are defined in the class
     private int age;  // atributes define the current state of the object
     private double gpa;
 
@@ -19,8 +19,9 @@ public class Student {
     public boolean isScholarshipEligible() {
         // Implement logic to check if the student is eligible for a scholarship
         return false;
+        */
     }
-}
+
 
 
 

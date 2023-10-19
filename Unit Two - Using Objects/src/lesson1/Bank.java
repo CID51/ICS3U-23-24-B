@@ -2,8 +2,8 @@ package lesson1;
 
 public class Bank {
     public static void main(String[] args) {
-        BankAccount account1 = new BankAccount("Maya", 1500.76, 526374);
-        BankAccount acount2 = new BankAccount("Evan", 99999.99, 139759);
+        //BankAccount account1 = new BankAccount("Maya", 1500.76, 526374);
+        //BankAccount acount2 = new BankAccount("Evan", 99999.99, 139759);
 
         /* State of account1:
             accountHolder: "Maya"
@@ -18,7 +18,7 @@ public class Bank {
             accountNumber: 139759
         */
 
-        account1.deposit(1000.50);
+        //account1.deposit(1000.50);
 
 
         /* State of account1:
