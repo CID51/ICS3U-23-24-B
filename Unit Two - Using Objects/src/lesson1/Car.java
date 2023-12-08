@@ -1,12 +1,12 @@
 package lesson1;
 
 public class Car {
-    /*private String make;
+    private String make;
     private String model;
     private int year;
     private double mileage;
 
-    // Constructor to initialize car attributes
+     // Constructor to initialize car attributes
     public Car(String carMake, String carModel, int carYear, double carMileage) {
         // Initialize make, model, year, and mileage with provided values
     }
@@ -19,5 +19,6 @@ public class Car {
     // Method stub to print car information
     public void printCarInfo() {
         // Print car make, model, year, and mileage
-        */
+        
     }
+}
